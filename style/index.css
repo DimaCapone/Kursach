@@ -1,0 +1,1973 @@
+@media screen and (max-width: 376px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    .header-button-text {
+        width: 50%;
+        }
+    .button-header {
+        position: absolute;
+        padding-left: 25%;
+        left: 45%;
+        bottom: 80%;
+     }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+    .header-absolute {
+        width: 60%;
+        position: absolute;
+        left: 3%;
+    }
+    .tp-ru {
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 1rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .middle-content {
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        width: 70%;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 40%;
+        height: 1400px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 48%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+    .sidebar {
+        width: 100%;
+        min-height: 1300px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .middle-content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (min-width: 376px) and (max-width: 600px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+    .header-absolute {
+        width: 60%;
+        position: absolute;
+        left: 3%;
+    }
+    .tp-ru {
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 1rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 3%;
+    }
+    .header-button-text {
+        width: 50%;
+        }
+    .button-header {
+        position: absolute;
+         padding-left: 25%;
+        left: 45%;
+        bottom: 80%;
+     }
+    
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .middle-content {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .content {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 46%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+
+}
+@media screen and (min-width: 600px) and (max-width: 960px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin:  0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    .button-header {
+        position: absolute;
+        left: 45%;
+        bottom: 80%;
+        padding-left: 25%;
+    }
+    .header-button-text {
+        width: 50%;
+        }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+    .header-absolute {
+        width: 60%;
+        position: absolute;
+        left: 3%;
+    }
+    .tp-ru {
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 1rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .middle-content {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .content {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 46%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+
+}
+@media screen and (min-width: 960px) and (max-width: 1280px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+    .header-absolute {
+        width: 60%;
+        position: absolute;
+        left: 2%;
+    }
+    .tp-ru {
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .button-header {
+        position: absolute;
+        left: 70%;
+        bottom: 80%;
+    }
+
+    .middle-content {
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        width: 70%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 40%;
+        height: 1150px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 48%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 12px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+}
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+    .header-absolute {
+        width: 50%;
+        position: absolute;
+        left: 2%;
+    }
+    .tp-ru {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .button-header {
+        position: absolute;
+        left: 70%;
+        bottom: 80%;
+    }
+
+    .middle-content {
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        width: 80%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 40%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 48%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+}
+@media screen and (min-width: 1440px) and (max-width: 1920px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+    .header-absolute {
+        width: 50%;
+        position: absolute;
+        left: 2%;
+    }
+    .tp-ru {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .button-header {
+        position: absolute;
+        left: 70%;
+        bottom: 80%;
+    }
+
+    .middle-content {
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        width: 70%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 40%;
+        height: 1320px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 48%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+}
+@media screen and (min-width: 1920px) and (max-width: 2560px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        /*background: url(../images/fon.webp);*/
+        background-color: #1f313f;
+    }
+
+    .container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .header {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .photo-head {
+        width: 100%;
+        height: 100%;
+    }
+
+    .action-button-header {
+        display: flex;
+        justify-content: center;
+    }
+    .header-absolute {
+        width: 50%;
+        position: absolute;
+        left: 2%;
+    }
+    .tp-ru {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+    }
+    .WordPress {
+        font-size: 2rem;
+        color: rgba(255, 255, 255, 0.578);
+        padding-left: 5%;
+    }
+    .button-widget {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .button-header {
+        position: absolute;
+        left: 70%;
+        bottom: 80%;
+    }
+
+    .middle-content {
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        width: 70%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .card {
+        width: 98%;
+        height: 160px;
+        background: url(../images/sidebar_box_bottom.png);
+    }
+
+    .border-top-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .border-boottom-card {
+        width: 100%;
+        height: 20px;
+        background: url(../images/sidebar_box_top.png);
+    }
+
+    .background-content {
+        width: 100%;
+        height: 180px;
+    }
+
+    .content-widget-card {
+        width: 100%;
+    }
+
+    .img-block {
+        width: 100%;
+        height: 40%;
+        display: flex;
+    }
+
+    .img {
+        width: 11%;
+        height: 60px;
+    }
+
+    .img-bot {
+        height: 100%;
+        width: 100%;
+    }
+
+    .Helo {
+        width: 50%;
+        height: 60px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hello-title {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .hello-top {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-boottom {
+        width: 100%;
+        height: 50%;
+    }
+
+    .hello-top-title {
+        font-size: 16px;
+    }
+
+    .hello-boottom-title {
+        font-size: 16px;
+    }
+
+    .Welcome {
+        width: 60%;
+        height: 20%;
+    }
+
+    .comment {
+        width: 50%;
+        height: 25px;
+        justify-self: end;
+    }
+
+    .sidebar {
+        width: 40%;
+        height: 1400px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .footer {
+        width: 100%;
+        height: 200px;
+    }
+
+    .footer-pravo {
+        width: 300px;
+        height: 50px;
+        justify-self: center;
+        margin-top: 30px;
+    }
+
+    .text-footer {
+        color: #ffffff;
+    }
+
+    .text-footer-pravo {
+        color: #71767a;
+    }
+
+    .footer-date {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .text2 {
+        width: 150px;
+        font-size: 0.5rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text3 {
+        width: 80%;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pages {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .widget {
+        width: 48%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: #e6edf3;
+        font-size: 14px;
+        box-shadow: 0 0 2px #999;
+    }
+
+    .widget-title {
+        font-weight: bold;
+        padding: 10px;
+
+    }
+
+    .meta-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .border-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .border-img-boottom {
+        width: 100%;
+        height: 100%;
+    }
+
+    .meta-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+    .meta-list a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .meta-list a:hover {
+        text-decoration: underline;
+    }
+
+    .content-widget form {
+        padding: 10px;
+    }
+
+}
