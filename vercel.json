@@ -3,7 +3,7 @@
     "rewrites": [
       {
         "source": "/",
-        "destination": "/HomePage.html"
+        "destination": "/Булавка_index.html"
       },
       {
         "source": "/(.*).html",
