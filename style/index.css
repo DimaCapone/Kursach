@@ -161,8 +161,11 @@
     }
 
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        font-size: 14px;
     }
 
     .comment {
@@ -467,12 +470,13 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
@@ -751,18 +755,18 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
         justify-self: end;
     }
-
     .sidebar {
         width: 100%;
         height: 1200px;
@@ -1029,12 +1033,13 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
@@ -1305,12 +1310,13 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
@@ -1580,12 +1586,13 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
@@ -1854,12 +1861,13 @@
     .hello-boottom-title {
         font-size: 16px;
     }
-
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
