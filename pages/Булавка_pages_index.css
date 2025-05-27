@@ -92,7 +92,7 @@
 
     .card {
         width: 100%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
     }
@@ -106,6 +106,9 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+    }
+    .tel {
+        color: red;
     }
 
     .border-top-card {
@@ -176,8 +179,14 @@
     }
 
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 20%;
+
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
+
     }
 
     .comment {
@@ -416,7 +425,7 @@
 
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
     }
@@ -431,6 +440,9 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+    }
+    .tel {
+        color: red;
     }
 
     .border-top-card {
@@ -499,8 +511,12 @@
     }
 
     .Welcome {
-        width: 60%;
-        height: 20%;
+        width: 100%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
     }
 
     .comment {
@@ -714,7 +730,7 @@
 
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
     }
@@ -729,6 +745,9 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+    }
+    .tel {
+        color: red;
     }
 
     .border-top-card {
@@ -800,7 +819,11 @@
 
     .Welcome {
         width: 60%;
-        height: 20%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
     }
 
     .comment {
@@ -1002,7 +1025,7 @@
     }
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
     }
@@ -1014,6 +1037,9 @@
     }
     .img-galleru {
         width: 30%;
+    }
+    .tel {
+        color: red;
     }
 
     .border-top-card {
@@ -1085,7 +1111,12 @@
 
     .Welcome {
         width: 60%;
-        height: 20%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
+
     }
 
     .comment {
@@ -1290,9 +1321,12 @@
 
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
+    }
+    .tel {
+        color: red;
     }
     .gallery {
         width: 98%;
@@ -1372,9 +1406,12 @@
 
     .Welcome {
         width: 60%;
-        height: 20%;
+        min-height: 30%;
     }
-
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
+    }
     .comment {
         width: 50%;
         height: 25px;
@@ -1575,7 +1612,7 @@
 
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         background: url(../images/sidebar_box_bottom.png);
         margin-left: 1%;
     }
@@ -1587,6 +1624,9 @@
     }
     .img-galleru {
         width: 30%;
+    }
+    .tel {
+        color: red;
     }
     .border-top-card {
         width: 100%;
@@ -1657,7 +1697,11 @@
 
     .Welcome {
         width: 60%;
-        height: 20%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
     }
 
     .comment {
@@ -1861,7 +1905,7 @@
     }
     .card {
         width: 98%;
-        height: 160px;
+        height: 190px;
         margin-left: 1%;
         background: url(../images/sidebar_box_bottom.png);
     }
@@ -1873,6 +1917,9 @@
     }
     .img-galleru {
         width: 30%;
+    }
+    .tel {
+        color: red;
     }
 
     
@@ -1944,7 +1991,11 @@
 
     .Welcome {
         width: 60%;
-        min-height: 20%;
+        min-height: 30%;
+    }
+    .Welcome-text {
+        width: 100%;
+        font-size: 14px;
     }
 
     .comment {
